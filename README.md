@@ -1,2 +1,2 @@
 # Deep-Learning-from-Scratch
-gradient_method:勾配法
+gradient_method: 勾配法
