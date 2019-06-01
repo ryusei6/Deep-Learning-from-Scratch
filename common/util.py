@@ -3,8 +3,7 @@ import numpy as np
 
 
 def smooth_curve(x):
-    """損失関数のグラフを滑らかにするために用いる
-
+    """損失関数のグラフを滑らかにするために用いる（指数移動平均）
     参考：http://glowingpython.blogspot.jp/2012/02/convolution-with-numpy.html
     """
     window_len = 11
