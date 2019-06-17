@@ -11,3 +11,5 @@ overfit_weight_decay.py
 →荷重減衰  
 overfit_dropout.py  
 →ドロップアウト  
+hyperparameter_optimization.py
+→ハイパーパラメータの検証
