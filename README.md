@@ -12,4 +12,13 @@ overfit_weight_decay.py
 overfit_dropout.py  
 →ドロップアウト  
 hyperparameter_optimization.py  
-→ハイパーパラメータの検証
+→ハイパーパラメータの検証  
+
+simple_convnet.py  
+→SimpleComvNet  
+train_convnet.py  
+→SimpleComvNetでの学習  
+visualize_filter.py  
+→フィルタ視覚化  
+apply_filter.py  
+→フィルタ適用  
