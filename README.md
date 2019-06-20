@@ -21,3 +21,9 @@ train_convnet.py
 visualize_filter.py  
 →フィルタ視覚化  
 
+train_deepnet.py  
+→DeepConvNetでの学習  
+misclassified_mnist.py  
+→誤答した画像を表示  
+isclassified_mnist.py  
+→半精度浮動小数点テスト  
