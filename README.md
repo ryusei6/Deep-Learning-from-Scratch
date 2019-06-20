@@ -20,6 +20,8 @@ train_convnet.py
 →SimpleComvNetでの学習  
 visualize_filter.py  
 →フィルタ視覚化  
+apply_filter.py  
+→フィルタ適用  
 
 train_deepnet.py  
 →DeepConvNetでの学習  
